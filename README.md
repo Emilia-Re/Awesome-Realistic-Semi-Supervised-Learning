@@ -22,7 +22,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [unread][ NeurIPS-2022-Workshop ] Semi-supervised Learning from Uncurated Echocardiogram Images with Fix-A-Step [[paper](https://www.michaelchughes.com/papers/HuangSidhomEtAl_MedNeurIPS_2022.pdf)]
 - [unread][ AAAI-2022 ] Not All Parameters Should Be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20644/20403)]
 - [Read half of it][ CVPR-2022 ] Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Safe-Student_for_Safe_Deep_Semi-Supervised_Learning_With_Unseen-Class_Unlabeled_Data_CVPR_2022_paper.pdf)]
-- [Read half of it][ CVPR-2022 ] Class-Aware Contrastive Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2203.02261)] [[code](https://github.com/TencentYoutuResearch/Classification-SemiCLS)]
+- [open world?][Read half of it][ CVPR-2022 ] Class-Aware Contrastive Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2203.02261)] [[code](https://github.com/TencentYoutuResearch/Classification-SemiCLS)]
 - [ TMM-2022 ] They are Not Completely Useless: Towards Recycling Transferable Unlabeled Data for Class-Mismatched Semi-Supervised Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9786767/)] [[code](https://github.com/zhuohuangai/TOOR)]
 - [unread][ ICDM-2022 ] How Out-of-Distribution Data Hurts Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2010.03658)]
 - [ ECCV workshop-2022]OpenCoS: Contrastive Semi-supervised Learning for Handling Open-set Unlabeled Data[[paper](https://arxiv.org/abs/2107.08943)][[code](https://github.com/alinlab/OpenCoS)]
@@ -30,6 +30,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ NeurIPS-2021 ] OpenMatch: Open-Set Semi-supervised Learning with Open-set Consistency Regularization [[paper](https://proceedings.neurips.cc/paper/2021/hash/da11e8cd1811acb79ccf0fd62cd58f86-Abstract.html)] [[code](https://github.com/VisionLearningGroup/OP_Match)]
 - [ ICCV-2021 ] Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning [[paper](http://openaccess.thecvf.com/content/ICCV2021/html/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.html)] [[code](https://github.com/huangjk97/T2T)]
 - [ Arxiv-2021 ] An Empirical Study and Analysis on Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2101.08237)]
+- [CoRR]On the consistency training for open-set semi-supervised learning.
 - [ ECCV-2020 ] Multi-task curriculum framework for open-set semi-supervised learning [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_26)] [[code](https://github.com/YU1ut/Multi-Task-Curriculum-Framework-for-Open-Set-SSL)]
 - [ ICML-2020 ] Safe deep semi-supervised learning for unseen-class unlabeled data [[paper](https://proceedings.mlr.press/v119/guo20i.html)] [[code](https://github.com/guolz-ml/DS3L)]
 - [ AAAI-2020 ] Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5763/5619)]
