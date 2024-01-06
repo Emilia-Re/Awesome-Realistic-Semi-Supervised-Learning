@@ -31,7 +31,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ ICCV-2021 ] Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning [[paper](http://openaccess.thecvf.com/content/ICCV2021/html/Huang_Trash_To_Treasure_Harvesting_OOD_Data_With_Cross-Modal_Matching_for_ICCV_2021_paper.html)] [[code](https://github.com/huangjk97/T2T)]
 - [ Arxiv-2021 ] An Empirical Study and Analysis on Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2101.08237)]
 - [CoRR 2021]On the consistency training for open-set semi-supervised learning.[[paper](https://www.researchgate.net/profile/Xing-Sun-4/publication/348647979_On_The_Consistency_Training_for_Open-Set_Semi-Supervised_Learning/links/60928b26a6fdccaebd096e8f/On-The-Consistency-Training-for-Open-Set-Semi-Supervised-Learning.pdf)]
-- [arxive]Robust semi-supervised learning with out of distribution data[[paper]](https://d1wqtxts1xzle7.cloudfront.net/81006030/2010.03658v1-libre.pdf)
+- [arxive 2020]Robust semi-supervised learning with out of distribution data[[paper]](https://d1wqtxts1xzle7.cloudfront.net/81006030/2010.03658v1-libre.pdf)
 - [ ECCV-2020 ] Multi-task curriculum framework for open-set semi-supervised learning [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_26)] [[code](https://github.com/YU1ut/Multi-Task-Curriculum-Framework-for-Open-Set-SSL)]
 - [ ICML-2020 ] Safe deep semi-supervised learning for unseen-class unlabeled data [[paper](https://proceedings.mlr.press/v119/guo20i.html)] [[code](https://github.com/guolz-ml/DS3L)]
 - [ AAAI-2020 ] Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5763/5619)]
