@@ -59,7 +59,11 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 
 ------
+## Open World Recognition
+[CVPR-2015]Towards Open World Recognition[[paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Bendale_Towards_Open_World_2015_CVPR_paper.pdf)]
 
+
+------
 ## Class-Imbalanced SSL
 
 - [ ICCV-2023 ] Towards Semi-supervised Learning with Non-random Missing Labels [[paper](https://arxiv.org/pdf/2308.08872v1)] [[code](https://github.com/NJUyued/PRG4SSL-MNAR)]
