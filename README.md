@@ -16,7 +16,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [hard][ ICML-2023 ] Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions [[paper](https://openreview.net/pdf?id=dZA7WtCULT)]
 - [ CVPR-2023 ] Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning [[paper](https://aimia-pku.github.io/assets/files/7.-Out-of-Distributed-SemanticPruningforRobustSemi-SupervisedLearning.pdf)] [[code](https://github.com/rain305f/OSP)]
 - [**unread**][ ICLR-2023 ] RoPAWS: Robust Semi-supervised Representation Learning from Uncurated Data [[paper](https://openreview.net/pdf?id=G1H4NSATlr)] [[code](https://openreview.net/attachment?id=G1H4NSATlr&name=supplementary_material)]
-- [**unread**][ Arxiv-2023 ] Improving Open-Set Semi-Supervised Learning with Self-Supervision [[paper](https://arxiv.org/pdf/2301.10127)]
+- [**unread**][ Arxiv-2023 ] Improving Open-Set Semi-Supervised Learning with Self-Supervision [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Wallin_Improving_Open-Set_Semi-Supervised_Learning_With_Self-Supervision_WACV_2024_paper.pdf)][[code](https://github.com/walline/ssl-tf2-sefoss)]
 - [**unread**][ Arxiv-2023 ] Adaptive Negative Evidential Deep Learning for Open-set Semi-supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
 - [ TMLR-2023 ] On Pseudo-Labeling for Class-Mismatch Semi-Supervised Learning [[paper](https://openreview.net/forum?id=tLG26QxoD8)]
 - [unrelated][ NeurIPS-2022-Workshop ] Semi-supervised Learning from Uncurated Echocardiogram Images with Fix-A-Step [[paper](https://www.michaelchughes.com/papers/HuangSidhomEtAl_MedNeurIPS_2022.pdf)]
