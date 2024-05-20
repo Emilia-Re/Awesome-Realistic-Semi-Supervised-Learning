@@ -7,7 +7,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 ------
 
 ## Open-Set SSL
-- [ICLR-2024]Realistic Evaluation of Semi-supervised Learning Algorithms in Open Environments[[paper](https://openreview.net/attachment?id=RvUVMjfp8i&name=pdf)]
+
+- [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29227/30315)] [[code](https://github.com/heejokong/UAGreg)]
 - [ AAAI-2024 ] ANEDL: Adaptive Negative Evidential Deep Learning for Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
 - [ ICCV-2023 ] Rethinking Safe Semi-supervised Learning: Transferring the Open-set Problem to A Close-set One [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Rethinking_Safe_Semi-supervised_Learning_Transferring_the_Open-set_Problem_to_A_ICCV_2023_paper.pdf)]
 - [ ICCV-2023 ] SSB: Simple but Strong Baseline for Boosting Performance of Open-Set Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fan_SSB_Simple_but_Strong_Baseline_for_Boosting_Performance_of_Open-Set_ICCV_2023_paper.pdf)] [[code](https://github.com/YUE-FAN/SSB)][[supplementary](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Fan_SSB_Simple_but_ICCV_2023_supplemental.pdf)]
@@ -67,9 +68,11 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Class-Imbalanced SSL
 
-- [ CVPR-2024 ] CDMAD: Class-Distribution-Mismatch-Aware Debiasing for Class-Imbalanced Semi-Supervised Learning
+- [ ARXIV-2024 ] SimPro: A Simple Probabilistic Framework Towards Realistic Long-Tailed Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2402.13505v1)] [[code](https://github.com/LeapLabTHU/SimPro)]
 
-- [ CVPR-2024 ] BEM: Balanced and Entropy-based Mix for Long-Tailed Semi-Supervised Learning
+- [ CVPR-2024 ] CDMAD: Class-Distribution-Mismatch-Aware Debiasing for Class-Imbalanced Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10391v1)] [[code](https://github.com/LeeHyuck/CDMAD)]
+
+- [ CVPR-2024 ] BEM: Balanced and Entropy-based Mix for Long-Tailed Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2404.01179)]
 
 - [ AAAI-2024 ] Three Heads Are Better Than One: Complementary Experts for Long-Tailed Semi-supervised Learning [[paper](https://arxiv.org/pdf/2312.15702)] [[code](https://github.com/machengcheng2016/CPE-LTSSL)]
 
