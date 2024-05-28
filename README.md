@@ -44,6 +44,9 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ------
 
+## Classic SSL
+- [ ICCV-2021 ] CoMatch: Semi-Supervised Learning With Contrastive Graph Regularization[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_CoMatch_Semi-Supervised_Learning_With_Contrastive_Graph_Regularization_ICCV_2021_paper.pdf)][[supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Li_CoMatch_Semi-Supervised_Learning_ICCV_2021_supplemental.pdf)][[arxiv](http://arxiv.org/abs/2011.11183)]
+
 ## Open-World SSL
 
 - [ CVPR-2024 ] Targeted Representation Alignment for Open-World Semi-Supervised Learning
