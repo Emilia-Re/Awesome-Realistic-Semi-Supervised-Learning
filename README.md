@@ -11,9 +11,12 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ ICML-2024 ] InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10658)]
 - [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning
 - [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29227/30315)] [[code](https://github.com/heejokong/UAGreg)][[author](https://heejokong.github.io/)]
+- [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning [[paper](https://palm.seu.edu.cn/zhangml/files/IJCAI'24d.pdf)] [[code](https://palm.seu.edu.cn/zhangml/files/BDMatch.rar)]
+- [ IJCAI-2024] Partial Optimal Transport Based Out-of-Distribution Detection for Open-Set Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=3WB5hT27zf)]
+- [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29227/30315)] [[code](https://github.com/heejokong/UAGreg)]
 - [ AAAI-2024 ] ANEDL: Adaptive Negative Evidential Deep Learning for Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
 - [ ICCV-2023 ] Rethinking Safe Semi-supervised Learning: Transferring the Open-set Problem to A Close-set One [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Rethinking_Safe_Semi-supervised_Learning_Transferring_the_Open-set_Problem_to_A_ICCV_2023_paper.pdf)]
-- [ ICCV-2023 ] SSB: Simple but Strong Baseline for Boosting Performance of Open-Set Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fan_SSB_Simple_but_Strong_Baseline_for_Boosting_Performance_of_Open-Set_ICCV_2023_paper.pdf)] [[code](https://github.com/YUE-FAN/SSB)][[supplementary](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Fan_SSB_Simple_but_ICCV_2023_supplemental.pdf)]
+- [ ICCV-2023 ] SSB: Simple but Strong Baseline for Boosting Performance of Open-Set Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fan_SSB_Simple_but_Strong_Baseline_for_Boosting_Performance_of_Open-Set_ICCV_2023_paper.pdf)] [[code](https://github.com/YUE-FAN/SSB)]
 - [ ICCV-2023 ] Semi-Supervised Learning via Weight-aware Distillation under Class Distribution Mismatch [[paper](https://arxiv.org/pdf/2308.11874v1)] [[code](https://github.com/RUC-DWBI-ML/research/tree/main/WAD-master)]
 - [ ICCV-2023 ] IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization [[paper](https://arxiv.org/pdf/2308.13168)] [[code](https://github.com/nukezil/IOMatch)]
 - [ KDD-2023 ] Open-Set Semi-Supervised Text Classification with Latent Outlier Softening [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599456)] [[code](https://github.com/BDBC-KG-NLP/SIGKDD2023_Latent_Outlier_Softening)]
@@ -24,8 +27,8 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ Arxiv-2023 ] Adaptive Negative Evidential Deep Learning for Open-set Semi-supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
 - [ TMLR-2023 ] On Pseudo-Labeling for Class-Mismatch Semi-Supervised Learning [[paper](https://openreview.net/forum?id=tLG26QxoD8)]
 - [ NeurIPS-2022-Workshop ] Semi-supervised Learning from Uncurated Echocardiogram Images with Fix-A-Step [[paper](https://www.michaelchughes.com/papers/HuangSidhomEtAl_MedNeurIPS_2022.pdf)]
-- [ AAAI-2022 ] Not All Parameters Should Be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20644/20403)]
-- [ CVPR-2022 ] Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Safe-Student_for_Safe_Deep_Semi-Supervised_Learning_With_Unseen-Class_Unlabeled_Data_CVPR_2022_paper.pdf)]
+- [ AAAI-2022 ] Not All Parameters Should Be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20644/20403)] [[code](https://github.com/Zhanlo/SPL)]
+- [ CVPR-2022 ] Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/He_Safe-Student_for_Safe_Deep_Semi-Supervised_Learning_With_Unseen-Class_Unlabeled_Data_CVPR_2022_paper.pdf)] [[code](https://github.com/Zhanlo/Safe-Student)]
 - [ CVPR-2022 ] Class-Aware Contrastive Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2203.02261)] [[code](https://github.com/TencentYoutuResearch/Classification-SemiCLS)]
 - [ TMM-2022 ] They are Not Completely Useless: Towards Recycling Transferable Unlabeled Data for Class-Mismatched Semi-Supervised Learning [[paper](https://ieeexplore.ieee.org/abstract/document/9786767/)] [[code](https://github.com/zhuohuangai/TOOR)]
 - [ ICDM-2022 ] How Out-of-Distribution Data Hurts Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2010.03658)]
@@ -50,8 +53,9 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-World SSL
 
-- [ CVPR-2024 ] Targeted Representation Alignment for Open-World Semi-Supervised Learning
-
+- [ arXiv-2024 ] Towards Realistic Long-tailed Semi-supervised Learning in an Open World [[paper](https://arxiv.org/abs/2405.14516)] [[code](https://github.com/heyuanpengpku/ROLSSL)]
+- [ CVPR-2024 ] Targeted Representation Alignment for Open-World Semi-Supervised Learning 
+- [ IJCAI-2024 ] Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2309.11930.pdf)] [[code](https://github.com/yebo0216best/lps-main)]
 - [ AAAI-2024 ] Semi-supervised Open-World Object Detection [[paper](https://arxiv.org/pdf/2402.16013)] [[code](https://github.com/sahalshajim/SS-OWFormer)]
 
 - [ NeurIPS-2023 ] A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2311.03524)] [[code](https://github.com/deeplearning-wisc/sorl)]
