@@ -9,7 +9,6 @@ We will update the list of papers regularly to keep it up to date. :grin:
 ## Open-Set SSL
 
 - [ ICML-2024 ] InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10658)]
-- [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning
 - [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29227/30315)] [[code](https://github.com/heejokong/UAGreg)][[author](https://heejokong.github.io/)]
 - [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning [[paper](https://palm.seu.edu.cn/zhangml/files/IJCAI'24d.pdf)] [[code](https://palm.seu.edu.cn/zhangml/files/BDMatch.rar)]
 - [ IJCAI-2024] Partial Optimal Transport Based Out-of-Distribution Detection for Open-Set Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=3WB5hT27zf)]
@@ -57,17 +56,11 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [ CVPR-2024 ] Targeted Representation Alignment for Open-World Semi-Supervised Learning 
 - [ IJCAI-2024 ] Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2309.11930.pdf)] [[code](https://github.com/yebo0216best/lps-main)]
 - [ AAAI-2024 ] Semi-supervised Open-World Object Detection [[paper](https://arxiv.org/pdf/2402.16013)] [[code](https://github.com/sahalshajim/SS-OWFormer)]
-
 - [ NeurIPS-2023 ] A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2311.03524)] [[code](https://github.com/deeplearning-wisc/sorl)]
-
 - [ NeurIPS-2023 ] Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=zrLxHYvIFL)] [[code](https://github.com/rain305f/TIDA)]
-
 - [ CIKM-2023 ] WOT-Class: Weakly Supervised Open-world Text Classification [[paper](https://arxiv.org/pdf/2305.12401)]
-
 - [ ACL-ARR-2023 ] OW-Class: Open-world Semi-supervised Text Classification [[paper](https://openreview.net/pdf?id=wQxftYkCdE)]
-
 - [ NeurIPS-2022 ] Robust Semi-Supervised Learning when Not All Classes have Labels [[paper](https://openreview.net/pdf?id=lDohSFOHr0)] [[code](https://www.lamda.nju.edu.cn/code_NACH.ashx)]
-
 - [ ICLR-2022 ] Open-World Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=O-r8LOR-CCA)] [[code](https://github.com/snap-stanford/orca)]
 - [ ECCV-2022 ] OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_22)] [[code](https://github.com/nayeemrizve/OpenLDN)]
 - [ ECCV-2022 ] Towards Realistic Semi-Supervised Learning [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910423.pdf)] [[code](https://github.com/nayeemrizve/TRSSL)]
