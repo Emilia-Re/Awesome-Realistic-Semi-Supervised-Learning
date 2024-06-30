@@ -53,7 +53,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 ## Open-World SSL
 
 - [ arXiv-2024 ] Towards Realistic Long-tailed Semi-supervised Learning in an Open World [[paper](https://arxiv.org/abs/2405.14516)] [[code](https://github.com/heyuanpengpku/ROLSSL)]
-- [ CVPR-2024 ] Targeted Representation Alignment for Open-World Semi-Supervised Learning 
+- [ CVPR-2024 ] Targeted Representation Alignment for Open-World Semi-Supervised Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)] [[code](https://github.com/Justherozen/TRAILER)]
 - [ IJCAI-2024 ] Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2309.11930.pdf)] [[code](https://github.com/yebo0216best/lps-main)]
 - [ AAAI-2024 ] Semi-supervised Open-World Object Detection [[paper](https://arxiv.org/pdf/2402.16013)] [[code](https://github.com/sahalshajim/SS-OWFormer)]
 
