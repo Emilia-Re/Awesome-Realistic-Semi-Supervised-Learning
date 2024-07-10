@@ -48,7 +48,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 ------
 ## CodeBase
 
--[ NeurIps-2022]USB: A Unified Semi-supervised Learning Benchmark for Classification[[paper](https://openreview.net/pdf?id=QeuwINa96C)][[code](https://github.com/microsoft/Semi-supervised-learning)]
+-[ NeurIps-2022]USB: A Unified Semi-supervised Learning Benchmark for Classification[[paper](https://openreview.net/pdf?id=QeuwINa96C)][[code](https://github.com/microsoft/Semi-supervised-learning)]]
 
 ------
 
