@@ -6,7 +6,8 @@
 ## OOD Detection
 -[[Benchmarking Generalized OOD Detection](https://github.com/Jingkang50/OpenOOD)]
 
--[arxiv-2024]Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey[[paper](https://github.com/AtsuMiyai/Awesome-OOD-VLM)][[web page](https://github.com/AtsuMiyai/Awesome-OOD-VLM)]
+-[arxiv-2024]Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey[[paper](https://arxiv.org/pdf/2407.21794)][[web page](https://github.com/AtsuMiyai/Awesome-OOD-VLM)]
+
 -[arxiv-2021]Generalized Out-of-Distribution Detection: A Survey[[paper(https://arxiv.org/pdf/2110.11334)]]
 
 ## Open-Set SSL
