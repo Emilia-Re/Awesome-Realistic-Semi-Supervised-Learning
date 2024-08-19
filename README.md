@@ -1,10 +1,13 @@
-# Awesome-Realistic-Semi-Supervised-Learning
-An awesome paper list of **Semi-Supervised Learning (SSL)** under realistic (Class-Imbalanced & Open-Set & Open-World) settings. 
+# -Semi-Supervised-Learning for OOD Detection
 
-If you would like to add literature or have other requests, please contact mengqy19@gmail.com.
-We will update the list of papers regularly to keep it up to date. :grin:
+
 
 ------
+## OOD Detection
+-[[Benchmarking Generalized OOD Detection](https://github.com/Jingkang50/OpenOOD)]
+
+-[arxiv-2024]Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey[[paper](https://github.com/AtsuMiyai/Awesome-OOD-VLM)][[web page](https://github.com/AtsuMiyai/Awesome-OOD-VLM)]
+
 
 ## Open-Set SSL
 
