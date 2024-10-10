@@ -11,7 +11,7 @@
 -[arxiv-2021]Generalized Out-of-Distribution Detection: A Survey[[paper(https://arxiv.org/pdf/2110.11334)]]
 
 ## Open-Set SSL
-
+- [MICCAI-2024] Open-Set Semi-Supervised Medical Image Classification with Learnable Prototypes and Outlier Filter[[paper](https://papers.miccai.org/miccai-2024/578-Paper0244.html)][[review](https://papers.miccai.org/miccai-2024/578-Paper0244.html)]
 - [ ICML-2024 ] InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10658)]
 - [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29227/30315)] [[code](https://github.com/heejokong/UAGreg)][[author](https://heejokong.github.io/)]
 - [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning [[paper](https://palm.seu.edu.cn/zhangml/files/IJCAI'24d.pdf)] [[code](https://palm.seu.edu.cn/zhangml/files/BDMatch.rar)][[author(https://palm.seu.edu.cn/homepage/hangjunyi/index.html)]
