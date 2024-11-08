@@ -1,6 +1,8 @@
-# -Semi-Supervised-Learning for OOD Detection
+# Awesome-Realistic-Semi-Supervised-Learning
+An awesome paper list of **Semi-Supervised Learning (SSL)** under realistic (Class-Imbalanced & Open-Set & Open-World) settings. 
 
-
+If you would like to add literature or have other requests, please contact mengqy19@gmail.com.
+We will update the list of papers regularly to keep it up to date. :grin:
 
 ------
 ## OOD Detection
@@ -11,10 +13,12 @@
 -[arxiv-2021]Generalized Out-of-Distribution Detection: A Survey[[paper(https://arxiv.org/pdf/2110.11334)]]
 
 ## Open-Set SSL
+
+- [ ECCV-2024 ] ProSub: Probabilistic Open-Set Semi-Supervised Learning with Subspace-Based Out-of-Distribution Detection [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07811.pdf)] [[code](https://github.com/walline/prosub)]
+- [ ECCV-2024 ] SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06776.pdf)] [[code](https://github.com/komejisatori/SCOMatch)]
 - [MICCAI-2024] Open-Set Semi-Supervised Medical Image Classification with Learnable Prototypes and Outlier Filter[[paper](https://papers.miccai.org/miccai-2024/578-Paper0244.html)][[review](https://papers.miccai.org/miccai-2024/578-Paper0244.html)]
 - [ ICML-2024 ] InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10658)]
-- [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29227/30315)] [[code](https://github.com/heejokong/UAGreg)][[author](https://heejokong.github.io/)]
-- [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning [[paper](https://palm.seu.edu.cn/zhangml/files/IJCAI'24d.pdf)] [[code](https://palm.seu.edu.cn/zhangml/files/BDMatch.rar)][[author](https://palm.seu.edu.cn/homepage/hangjunyi/index.html)]
+- [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning [[paper](https://palm.seu.edu.cn/zhangml/files/ICML'24c.pdf)] [[code](https://palm.seu.edu.cn/zhangml/files/BDMatch.rar)]
 - [ IJCAI-2024] Partial Optimal Transport Based Out-of-Distribution Detection for Open-Set Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=3WB5hT27zf)]
 - [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29227/30315)] [[code](https://github.com/heejokong/UAGreg)]
 - [ AAAI-2024 ] ANEDL: Adaptive Negative Evidential Deep Learning for Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
