@@ -14,7 +14,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 ## Open-Set SSL
 
-- [ ECCV-2024 ] ProSub: Probabilistic Open-Set Semi-Supervised Learning with Subspace-Based Out-of-Distribution Detection [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07811.pdf)] [[code](https://github.com/walline/prosub)]
+- [ ECCV-2024 ] ProSub: Probabilistic Open-Set Semi-Supervised Learning with Subspace-Based Out-of-Distribution Detection [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07811.pdf)] [[code](https://github.com/walline/prosub)][[supplementary](https://openreview.net/attachment?id=LVHEcVgEGm&name=supplementary_material)]
 - [ ECCV-2024 ] SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06776.pdf)] [[code](https://github.com/komejisatori/SCOMatch)]
 - [MICCAI-2024] Open-Set Semi-Supervised Medical Image Classification with Learnable Prototypes and Outlier Filter[[paper](https://papers.miccai.org/miccai-2024/578-Paper0244.html)][[review](https://papers.miccai.org/miccai-2024/578-Paper0244.html)]
 - [ ICML-2024 ] InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10658)]
