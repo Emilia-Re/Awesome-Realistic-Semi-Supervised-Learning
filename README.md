@@ -19,7 +19,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 - [MICCAI-2024] Open-Set Semi-Supervised Medical Image Classification with Learnable Prototypes and Outlier Filter[[paper](https://papers.miccai.org/miccai-2024/578-Paper0244.html)][[review](https://papers.miccai.org/miccai-2024/578-Paper0244.html)]
 - [ ICML-2024 ] InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2403.10658)]
 - [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning [[paper](https://palm.seu.edu.cn/zhangml/files/ICML'24c.pdf)] [[code](https://palm.seu.edu.cn/zhangml/files/BDMatch.rar)]
-- [ IJCAI-2024] Partial Optimal Transport Based Out-of-Distribution Detection for Open-Set Semi-Supervised Learning [[paper](https://openreview.net/pdf?id=3WB5hT27zf)]
+- [ IJCAI-2024] Partial Optimal Transport Based Out-of-Distribution Detection for Open-Set Semi-Supervised Learning [[paper](https://www.ijcai.org/proceedings/2024/0536.pdf)][[code](https://github.com/ryl0427/Code_for_POT_OSSL)]
 - [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29227/30315)] [[code](https://github.com/heejokong/UAGreg)]
 - [ AAAI-2024 ] ANEDL: Adaptive Negative Evidential Deep Learning for Open-Set Semi-Supervised Learning [[paper](https://arxiv.org/pdf/2303.12091)]
 - [ ICCV-2023 ] Rethinking Safe Semi-supervised Learning: Transferring the Open-set Problem to A Close-set One [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Rethinking_Safe_Semi-supervised_Learning_Transferring_the_Open-set_Problem_to_A_ICCV_2023_paper.pdf)]
