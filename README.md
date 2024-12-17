@@ -13,7 +13,7 @@ We will update the list of papers regularly to keep it up to date. :grin:
 -[arxiv-2021]Generalized Out-of-Distribution Detection: A Survey[[paper(https://arxiv.org/pdf/2110.11334)]]
 
 ## Open-Set SSL
-
+- [ TPAMI ] Robust_Semi-Supervised_Learning_by_Wisely_Leveraging_Open-Set_Data[[paper](https://ieeexplore.ieee.org/document/10536663)]
 - [ ECCV-2024 ] ProSub: Probabilistic Open-Set Semi-Supervised Learning with Subspace-Based Out-of-Distribution Detection [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07811.pdf)] [[code](https://github.com/walline/prosub)][[supplementary](https://openreview.net/attachment?id=LVHEcVgEGm&name=supplementary_material)]
 - [ ECCV-2024 ] SCOMatch: Alleviating Overtrusting in Open-set Semi-supervised Learning [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06776.pdf)] [[code](https://github.com/komejisatori/SCOMatch)]
 - [MICCAI-2024] Open-Set Semi-Supervised Medical Image Classification with Learnable Prototypes and Outlier Filter[[paper](https://papers.miccai.org/miccai-2024/578-Paper0244.html)][[review](https://papers.miccai.org/miccai-2024/578-Paper0244.html)]
