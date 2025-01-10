@@ -12,6 +12,18 @@ We will update the list of papers regularly to keep it up to date. :grin:
 
 -[arxiv-2021]Generalized Out-of-Distribution Detection: A Survey[[paper(https://arxiv.org/pdf/2110.11334)]]
 
+##
+2024:
+- [ ICML-2024 ] Binary Decomposition: A Problem Transformation Perspective for Open-Set Semi-Supervised Learning [[paper](https://palm.seu.edu.cn/zhangml/files/ICML'24c.pdf)] [[code](https://palm.seu.edu.cn/zhangml/files/BDMatch.rar)]
+- [ IJCAI-2024] Partial Optimal Transport Based Out-of-Distribution Detection for Open-Set Semi-Supervised Learning [paper][code]
+- [ AAAI-2024 ] Unknown-Aware Graph Regularization for Robust Semi-supervised Learning from Uncurated Data [paper] [code]
+
+2023：
+- [ ICCV-2023 ] IOMatch: Simplifying Open-Set Semi-Supervised Learning with Joint Inliers and Outliers Utilization [paper] [code]
+- [ ICCV-2023 ] Semi-Supervised Learning via Weight-aware Distillation under Class Distribution Mismatch [paper] [code]
+- [ CVPR-2023 ] Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning [paper] [code]
+
+
 ## Open-Set SSL
 - [ TPAMI-2024 ] Robust_Semi-Supervised_Learning_by_Wisely_Leveraging_Open-Set_Data[[paper](https://ieeexplore.ieee.org/document/10536663)]
 - [ ECCV-2024 ] ProSub: Probabilistic Open-Set Semi-Supervised Learning with Subspace-Based Out-of-Distribution Detection [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07811.pdf)] [[code](https://github.com/walline/prosub)][[supplementary](https://openreview.net/attachment?id=LVHEcVgEGm&name=supplementary_material)]
